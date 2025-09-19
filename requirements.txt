@@ -1,1 +1,2 @@
-
+git add requirements.txt
+git commit -m "Add dependencies for PDF processing, ML, and API functionality"
